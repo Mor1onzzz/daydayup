@@ -2,16 +2,16 @@ const isDev = process.env.NODE_ENV === 'development';
 
 let config = {
   request: {
-    token: ['9c48ed2297d7d9bf9447', '6de723dbf1a6e4adeacd'],
-    clientID: isDev ? '56af6ab05592f0a2d399' : '694df1779e48d5a450d3',
+    token: ['ghp_POKLPJsLlupuS0qR', 'JZ7aYwuMXivIgG4Ne353'],
+    clientID: isDev ? 'Ov23liR3JFjYgqlvKfNT' : '694df1779e48d5a450d3',
     clientSecret: isDev
-      ? '5d7e71a1b6130001e84956420ca5b88bc45b7d3c'
+      ? 'ee095d759fa9c814915a0a18e272e96975d5bae3'
       : '23420dd29f671adc5107a5565ed47f655f8e1260',
     pageSize: 6,
     autoProxy:
       'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token',
-    owner: 'SimonAKing',
-    repo: 'weibo',
+    owner: 'Mor1onzzz',
+    repo: 'daydayup',
   },
 
   app: {
