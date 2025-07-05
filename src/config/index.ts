@@ -11,7 +11,7 @@ let config = {
     autoProxy:
       'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token',
     owner: 'Mor1onzzz',
-    repo: 'daydayup',
+    repo: 'gwitter',
   },
 
   app: {
